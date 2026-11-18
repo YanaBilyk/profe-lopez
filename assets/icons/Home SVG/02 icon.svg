@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.53 153.6"><metadata><?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmpMM:DocumentID="xmp.did:cb9f5498-bb58-4572-8043-8c369e6bfb9b" xmpMM:InstanceID="xmp.iid:cb9f5498-bb58-4572-8043-8c369e6bfb9b" dcterms:provenance="https://cai-manifests.adobe.com/manifests/urn-c2pa-9c5593b9-7168-4d51-972d-af1dee419371-adobe"> </rdf:Description></rdf:RDF></x:xmpmeta>
+<?xpacket end="w"?></metadata>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #961c2b;
+      }
+
+      .cls-2 {
+        fill: #951b2b;
+      }
+
+      .cls-3 {
+        fill: #fcfdfd;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M175.03,60.36v-2.3c0-3.11-.63-6.07-1.6-8.99-2.79-8.41-8.9-15.24-16.58-19.06-4.88-2.64-10.47-4.14-16.4-4.14h-44.37c-6.44,0-12.47,1.77-17.63,4.84-4.94,2.77-9.19,6.82-12.16,11.7-2.97,4.87-4.79,10.38-4.79,16.11v1.88s0,.04,0,.06v16.96c0,18.19,14.04,33.09,31.88,34.47v15.84c3.22-1.66,6.22-3.39,9.11-5.4,3.9-2.71,7.14-5.57,8.34-10.33h7.47s22.15,0,22.15,0c19.1,0,34.58-15.48,34.58-34.58v-16.96S175.03,60.39,175.03,60.36Z"/>
+  <circle class="cls-1" cx="144.63" cy="69.98" r="8.17"/>
+  <circle class="cls-2" cx="91.61" cy="69.98" r="8.17"/>
+  <circle class="cls-1" cx="118.09" cy="69.98" r="8.16"/>
+</svg>

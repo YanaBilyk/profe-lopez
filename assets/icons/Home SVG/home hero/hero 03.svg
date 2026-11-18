@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.53 225.78"><metadata><?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmpMM:DocumentID="xmp.did:cb9f5498-bb58-4572-8043-8c369e6bfb9b" xmpMM:InstanceID="xmp.iid:cb9f5498-bb58-4572-8043-8c369e6bfb9b" dcterms:provenance="https://cai-manifests.adobe.com/manifests/urn-c2pa-13f114df-7863-4bb0-8e28-a32654ce793b-adobe"> </rdf:Description></rdf:RDF></x:xmpmeta>
+<?xpacket end="w"?></metadata>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fdfdfe;
+      }
+
+      .cls-2 {
+        fill: #911a21;
+      }
+
+      .cls-3 {
+        fill: #fcfdfd;
+      }
+    </style>
+  </defs>
+  <g id="Generative_Object" data-name="Generative Object">
+    <path class="cls-1" d="M209.59,56.12l.39.21v104.24c-.25.67-.55.9-1.34.57-31.03-4.17-66.13,1.96-87.43,28.17l-.28-.07c-.29-.1-.34-.2-.34-.71l.06-82.23.03-42.74c12.67-12.17,27.12-20.96,43.8-25.01,14.75-3.37,30.57-3.76,45.11.43v17.14Z"/>
+    <path class="cls-3" d="M114.82,189.86l-1.13-.79c-21.9-25.27-54.36-32.3-85.27-28.01-.6.05-1.2-.08-1.8-.21l.16-104.44-.04-17.39c3.72-1.18,7.32-1.88,11.15-2.36,11.65-1.46,23.29-.74,34.72,2.09,15.9,4.09,30.33,12.89,42.26,24.78L114.82,189.86Z"/>
+    <path class="cls-2" d="M120.93,189.24l2.54-3.26c9.62-10.64,22.79-18.2,36.03-22.11,16.25-4.77,33.22-5.31,50.09-3.03V56.12s14.97,0,14.97,0v123.75c-21.07-3.7-41.84-3.73-62.8-.95l-14.78,2.63c-9,1.98-17.71,4.61-26.25,8.23C120.68,189.56,120.8,189.37,120.93,189.24Z"/>
+    <path class="cls-2" d="M26.62,160.85c15.54-2,30.87-1.94,45.94,2.04,10.86,2.86,20.88,7.95,29.9,15.07,4.46,3.52,8.58,7.29,12.36,11.9-5.87-2.23-11.47-4.38-17.36-6.07-28.21-7.83-56.6-8.48-85.47-3.92l-.03-123.74,14.66-.04v104.76Z"/>
+  </g>
+</svg>
